@@ -12,7 +12,12 @@ allows for multiple people to collaborate on a code
 
 c. Describe the steps to open a pull request?
 
-
+- from forked or newly created repo page, naviagte to 'pull request' tab
+- select 'new pull request'
+- set first field entry to be main branch from forked repo and second 
+field entry to the branch (where commits were made) you want to merge to 
+main
+ 
 
 d. Describe the steps to add a collaborator to a repository (share write 
 permissions)
