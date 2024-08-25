@@ -17,6 +17,7 @@ c. Describe the steps to open a pull request?
 - set first field entry to be main branch from forked repo and second 
 field entry to the branch (where commits were made) you want to merge to 
 main
+- select 'creaye pull request'
  
 
 d. Describe the steps to add a collaborator to a repository (share write 
