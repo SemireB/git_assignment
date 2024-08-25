@@ -8,7 +8,7 @@ track feature requests and more.
 b. What is a pull request?
 
 A pull request is used to merge changes from one branch to another, which 
-allows for multiple people to collaborate on a code
+allows for multiple people to collaborate on a code.
 
 c. Describe the steps to open a pull request?
 
@@ -17,7 +17,7 @@ c. Describe the steps to open a pull request?
 - set first field entry to be main branch from forked repo and second 
 field entry to the branch (where commits were made) you want to merge to 
 main
-- select 'creaye pull request'
+- select 'create pull request'
  
 
 d. Describe the steps to add a collaborator to a repository (share write 
@@ -34,11 +34,11 @@ e. What is the difference between git and GitHub?
 
 Git is a version control software that can be installed and used locally 
 on your computer, whereas github is a SaaS service used to run git in the 
-cloud and collaborate on code
+cloud and collaborate on code.
 
 f. What does git diff do?
 
-Git diff allows you to preview changes between two data sets  quickly
+Git diff allows you to preview changes between two data sets  quickly.
 
 g. What is the main branch?
 
@@ -50,4 +50,4 @@ directly push our changes directly into the main branch?
 
 If it's a new repo we should create a new branch and push the changes to 
 this branch before creating a pull request to merge the changes to the 
-main branch
+main branch.
