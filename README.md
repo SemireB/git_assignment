@@ -37,7 +37,7 @@ cloud and collaborate on code
 
 f. What does git diff do?
 
-Git diff allows you to preview changes quickly
+Git diff allows you to preview changes between two data sets  quickly
 
 g. What is the main branch?
 
