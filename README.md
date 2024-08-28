@@ -1,5 +1,4 @@
 # Git Assignment - <SemireB>
-
 a. What is an issue?
 
 An issue is like a ticket created to log problems with the code,make and 
